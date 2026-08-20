@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Brian Bedoya! 👋
 
-<!--
-**Brianbp26/Brianbp26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I am a 3rd-year **Data Science and Artificial Intelligence** engineering student at *Universidad Politécnica de Madrid (UPM)*. Currently, I am doing an **Erasmus+ exchange in Trondheim, Norway**, looking to expand my horizons and take on new technical challenges. 
 
-Here are some ideas to get you started:
+I consider myself a proactive developer with a strong mathematical background, passionate about extracting value from data and building intelligent systems. I am used to working under pressure and in team environments, effectively balancing a demanding degree with customer-facing work experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 What I'm looking for
+I am actively looking for an **Internship in Data Science, Machine Learning, or AI** in Norway to apply my academic knowledge in a real-world tech environment and keep growing as an engineer.
+
+### 🛠️ Tech Stack & Skills
+- **Programming Languages:** Python, SQL
+- **AI & Machine Learning:** Scikit-learn, TensorFlow, Spacy, Natural Language Processing (NLP), Random Forest, Deep Learning.
+- **Data Engineering & DBs:** MongoDB, Neo4j, Redis, Cassandra, Relational DBs.
+- **Tools:** Jupyter Notebook, Visual Studio, Git, Pandas, NumPy.
+
+### 📫 How to reach me
+- **Email:** brian.bedoya.2605@gmail.com
+- **LinkedIn:** [Añade aquí el link a tu LinkedIn si tienes]
+
+---
+⭐️ *Feel free to explore my pinned repositories below to see my best academic projects (most of them graded 9+/10 at UPM).*
