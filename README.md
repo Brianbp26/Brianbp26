@@ -16,7 +16,7 @@ I am actively looking for an **Internship in Data Science, Machine Learning, or 
 
 ### 📫 How to reach me
 - **Email:** brian.bedoya.2605@gmail.com
-- **LinkedIn:** [Añade aquí el link a tu LinkedIn si tienes]
+- **LinkedIn:** https://www.linkedin.com/in/brian-bedoya-piedrahita-4560412a9/
 
 ---
 ⭐️ *Feel free to explore my pinned repositories below to see my best academic projects (most of them graded 9+/10 at UPM).*
