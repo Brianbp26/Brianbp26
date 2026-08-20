@@ -1,7 +1,7 @@
 # Hi there, I'm Brian Bedoya! 👋
 
 ### 👨‍💻 About Me
-I am a 3rd-year **Data Science and Artificial Intelligence** engineering student at *Universidad Politécnica de Madrid (UPM)*. Currently, I am doing an **Erasmus+ exchange in Trondheim, Norway**, looking to expand my horizons and take on new technical challenges. 
+I am a 4rd-year **Data Science and Artificial Intelligence** engineering student at *Universidad Politécnica de Madrid (UPM)*. Currently, I am doing an **Erasmus+ exchange in Trondheim, Norway**, looking to expand my horizons and take on new technical challenges. 
 
 I consider myself a proactive developer with a strong mathematical background, passionate about extracting value from data and building intelligent systems. I am used to working under pressure and in team environments, effectively balancing a demanding degree with customer-facing work experience.
 
